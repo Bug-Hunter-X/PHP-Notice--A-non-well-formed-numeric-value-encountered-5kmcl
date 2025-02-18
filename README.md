@@ -1,0 +1,1 @@
+This repository contains a PHP code example demonstrating the "PHP Notice: A non well formed numeric value encountered" error. The error occurs when a non-numeric string is encountered during an arithmetic operation in a loop. The solution demonstrates how to prevent this error using type checking and data validation.
